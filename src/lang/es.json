@@ -299,8 +299,8 @@
   "sta.dice.dsn.ufp.blue": "UFP Azul",
   "sta.dice.dsn.ufp.gold": "UFP Dorado",
   "sta.dice.dsn.ufp.red": "UFP Rojo",
-  "sta.dice.dsn.ufp.theme.black": "Star Trek Adventures UFP (Negro)",
-  "sta.dice.dsn.ufp.theme.white": "Star Trek Adventures UFP (Blanco)",
+  "sta.dice.dsn.ufp.theme.black": "Infinity the Roleplaying Game UFP (Negro)",
+  "sta.dice.dsn.ufp.theme.white": "Infinity the Roleplaying Game UFP (Blanco)",
 
    "sta.tooltip.character.weapon.area": "(2e) Cuando tienes éxito en un ataque, objetivos adicionales en la misma zona pueden ser alcanzados gastando 1 Momentum por cada objetivo adicional (repetible). Este ataque puede tener éxito a un costo.\n\n(1e) El ataque afecta un área más amplia y puede afectar a varios objetivos a la vez. El ataque afecta automáticamente a cualquier personaje u objeto dañable dentro del alcance del objetivo inicial, y luego a un objetivo adicional dentro del alcance cercano del objetivo inicial por cada efecto obtenido, comenzando con el más cercano (según lo determine el Director de Juego). Si se obtienen una o más Complicaciones al usar un ataque de Área, el Director de Juego puede elegir usar Complicaciones para que un aliado en el área sea afectado por el ataque. Un objetivo no puede ser alcanzado si hubiera sido más difícil de alcanzar que el objetivo inicial.",
   "sta.tooltip.character.weapon.intense": "(2e) Al realizar un ataque con esta arma, puedes aumentar la gravedad gastando 1 Momentum en lugar de 2 (repetible).\n\n(1e) El ataque está diseñado para infligir un daño masivo a un objetivo, incapacitándolo mucho más rápido. El costo para Evitar una Lesión causada por un arma Intensa aumenta en uno por cada efecto obtenido.",

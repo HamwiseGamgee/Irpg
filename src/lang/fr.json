@@ -299,8 +299,8 @@
   "sta.dice.dsn.ufp.blue": "FPU Bleue",
   "sta.dice.dsn.ufp.gold": "FPU Or",
   "sta.dice.dsn.ufp.red": "FPU Rouge",
-  "sta.dice.dsn.ufp.theme.black": "Star Trek Adventures FPU (Noir)",
-  "sta.dice.dsn.ufp.theme.white": "Star Trek Adventures FPU (Blanc)",
+  "sta.dice.dsn.ufp.theme.black": "Infinity the Roleplaying Game FPU (Noir)",
+  "sta.dice.dsn.ufp.theme.white": "Infinity the Roleplaying Game FPU (Blanc)",
 
   "sta.tooltip.character.weapon.area": "(2e) Lorsque vous réussissez une attaque, des cibles supplémentaires dans la même zone peuvent être touchées en dépensant 1 Momentum par cible supplémentaire (répétable). Cette attaque peut réussir à un coût.\n\n(1e) L'attaque affecte une zone plus large et peut affecter plusieurs cibles à la fois. L'attaque affecte automatiquement tout personnage ou objet endommageable à portée de la cible initiale, puis une cible supplémentaire à portée rapprochée de la cible initiale pour chaque Effet obtenu, en commençant par la plus proche (tel que déterminé par le Maître de Jeu). Si une ou plusieurs Complications sont obtenues lors de l'utilisation d'une attaque de Zone, le Maître de Jeu peut choisir d'utiliser les Complications pour qu'un allié dans la zone soit affecté par l'attaque. Une cible ne peut pas être touchée si elle aurait été plus difficile à toucher que la cible initiale.",
   "sta.tooltip.character.weapon.intense": "(2e) Lorsque vous effectuez une attaque avec cette arme, vous pouvez augmenter la gravité en dépensant 1 Momentum au lieu de 2 (répétable).\n\n(1e) L'attaque est conçue pour infliger des dommages massifs à une cible, la mettant hors d'état de nuire beaucoup plus rapidement. Le coût pour Éviter une Blessure causée par une arme Intense augmente de un pour chaque Effet obtenu.",

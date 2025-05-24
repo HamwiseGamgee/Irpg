@@ -299,8 +299,8 @@
   "sta.dice.dsn.ufp.blue": "UFP Blue",
   "sta.dice.dsn.ufp.gold": "UFP Gold",
   "sta.dice.dsn.ufp.red": "UFP Red",
-  "sta.dice.dsn.ufp.theme.black": "Star Trek Adventures UFP (Black)",
-  "sta.dice.dsn.ufp.theme.white": "Star Trek Adventures UFP (White)",
+  "sta.dice.dsn.ufp.theme.black": "Infinity the Roleplaying Game UFP (Black)",
+  "sta.dice.dsn.ufp.theme.white": "Infinity the Roleplaying Game UFP (White)",
 
   "sta.tooltip.character.weapon.area": "(2e) When you succeed at an attack, additional targets in the same zone may be hit by spending 1 Momentum for each additional target (Repeatable). This attack may Succeed at Cost.\n\n(1e) The attack automatically affects any character or damageable object within Reach of the initial target, and then one additional target within Close range of the initial target for each Effect rolled, starting with the next closest (as determined by the Gamemaster). If one or more Complications is rolled when using an Area attack, the Gamemaster may choose to use Complications to have an ally in the area affected by the attack. A target cannot be hit if it would have been more difficult to hit than the initial target.",
   "sta.tooltip.character.weapon.intense": "(2e) When making an attack with this weapon, you may increase the severity by spending 1 Momentum, rather than 2 (Repeatable).\n\n(1e) The Cost to Avoid an Injury caused by an Intense weapon increases by one for each Effect rolled.",

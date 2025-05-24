@@ -299,8 +299,8 @@
   "sta.dice.dsn.ufp.blue": "UFP Blau",
   "sta.dice.dsn.ufp.gold": "UFP Gold",
   "sta.dice.dsn.ufp.red": "UFP Rot",
-  "sta.dice.dsn.ufp.theme.black": "Star Trek Adventures UFP (Schwarz)",
-  "sta.dice.dsn.ufp.theme.white": "Star Trek Adventures UFP (Weiß)",
+  "sta.dice.dsn.ufp.theme.black": "Infinity the Roleplaying Game UFP (Schwarz)",
+  "sta.dice.dsn.ufp.theme.white": "Infinity the Roleplaying Game UFP (Weiß)",
 
   "sta.tooltip.character.weapon.area": "(2e) Wenn du einen Angriff erfolgreich ausführst, können zusätzliche Ziele in derselben Zone getroffen werden, indem du 1 Momentum für jedes zusätzliche Ziel ausgibst (wiederholbar). Dieser Angriff kann mit Kosten erfolgreich sein.\n\n(1e) Der Angriff betrifft ein größeres Gebiet und kann mehrere Ziele gleichzeitig betreffen. Der Angriff betrifft automatisch jeden Charakter oder jedes beschädigbare Objekt in Reichweite des ursprünglichen Ziels und dann ein zusätzliches Ziel in Nahbereich des ursprünglichen Ziels für jeden gewürfelten Effekt, beginnend mit dem nächstgelegenen (wie vom Spielleiter festgelegt). Wenn ein oder mehrere Komplikationen bei der Verwendung eines Flächenangriffs gewürfelt werden, kann der Spielleiter Komplikationen verwenden, um einen Verbündeten im betroffenen Bereich zu treffen. Ein Ziel kann nicht getroffen werden, wenn es schwieriger zu treffen wäre als das ursprüngliche Ziel.",
   "sta.tooltip.character.weapon.intense": "(2e) Wenn du einen Angriff mit dieser Waffe ausführst, kannst du die Schwere erhöhen, indem du 1 Momentum anstelle von 2 ausgibst (wiederholbar).\n\n(1e) Der Angriff ist darauf ausgelegt, einem Ziel massiven Schaden zuzufügen und es viel schneller außer Gefecht zu setzen. Die Kosten, eine durch eine intensive Waffe verursachte Verletzung zu vermeiden, erhöhen sich um eins für jeden gewürfelten Effekt.",

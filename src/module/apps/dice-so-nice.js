@@ -1,7 +1,7 @@
 export function registerDsnUfpThemes(dice3d) {
   [{
     'background': '#00a3d1',
-    'category': 'Star Trek Adventures',
+    'category': 'Infinity the Roleplaying Game',
     'description': game.i18n.localize('sta.dice.dsn.ufp.blue'),
     'edge': '#006f8f',
     'font': 'FoundryVTT',
@@ -12,7 +12,7 @@ export function registerDsnUfpThemes(dice3d) {
   },
   {
     'background': '#f7b50c',
-    'category': 'Star Trek Adventures',
+    'category': 'Infinity the Roleplaying Game',
     'description': game.i18n.localize('sta.dice.dsn.ufp.gold'),
     'edge': '#755400',
     'font': 'FoundryVTT',
@@ -23,7 +23,7 @@ export function registerDsnUfpThemes(dice3d) {
   },
   {
     'background': '#d62100',
-    'category': 'Star Trek Adventures',
+    'category': 'Infinity the Roleplaying Game',
     'description': game.i18n.localize('sta.dice.dsn.ufp.red'),
     'edge': '#941700',
     'font': 'FoundryVTT',
@@ -35,7 +35,7 @@ export function registerDsnUfpThemes(dice3d) {
   ].forEach((colorset) => dice3d.addColorset(colorset));
   dice3d.addSystem({
     id: 'sta-black',
-    name: 'Star Trek Adventures UFP (Black)'
+    name: 'Infinity the Roleplaying Game UFP (Black)'
   }, 'preferred');
   dice3d.addDicePreset({
     type: 'd6',
@@ -60,7 +60,7 @@ export function registerDsnUfpThemes(dice3d) {
   });
   dice3d.addSystem({
     id: 'sta-white',
-    name: 'Star Trek Adventures UFP (White)'
+    name: 'Infinity the Roleplaying Game UFP (White)'
   }, 'default');
   dice3d.addDicePreset({
     type: 'd6',

@@ -72,7 +72,7 @@ import {
 Hooks.once('init', function() {
   const versionInfo = game.world.coreVersion;
   // Splash Screen
-  console.log(`Initializing Star Trek Adventures Tabletop Roleplaying Game System
+  console.log(`Initializing Infinity the Roleplaying Game Tabletop Roleplaying Game System
                  .
                 .:.
                .:::.
