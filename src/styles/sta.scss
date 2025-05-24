@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Roboto Condensed';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/robotocondensed/v27/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyWyovBJ.ttf) format('truetype');
+}
+
+body {
+    font-family: 'Roboto Condensed';
+}
+
+/* Import styles. */
+@import 'sta/colors';
+@import 'sta/trackbars';
+@import 'sta/buttons';
+@import 'sta/actoritems';
+@import 'sta/character';
+@import 'sta/starship';
+@import 'sta/extendedtask';
+@import 'sta/items';
+@import 'sta/scenetraits';
+@import 'sta/dialogue';
+@import 'sta/chatcard';
+@import 'sta/tracker';
+
