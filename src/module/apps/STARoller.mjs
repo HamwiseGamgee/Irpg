@@ -105,8 +105,9 @@ export class STARoller {
       starship.type = 'starship';
     }
 
-    const attributes = ['control', 'daring', 'fitness', 'insight', 'presence', 'reason'];
-    const disciplines = ['command', 'conn', 'engineering', 'security', 'medicine', 'science'];
+    const attributes = ['agility', 'awareness', 'brawn', 'coordination', 'intelligence', 'personality', 'willpower'];
+      const disciplines = ['acrobatics', 'close combat', 'stealth', 'analysis', 'extraplanetary', 'observation', 'survival', 'thievery', 'athletics', 'resistance', 'ballistics', 'pilot',
+          'spacecraft', 'education', 'hacking', 'medicine', 'psychology', 'science', 'tech', 'animal handling', 'command', 'lifestyle', 'persuade', 'discipline'];
     const systems = ['communications', 'computers', 'engines', 'sensors', 'structure', 'weapons'];
     const departments = ['command', 'conn', 'engineering', 'security', 'medicine', 'science'];
     const rollList = [
