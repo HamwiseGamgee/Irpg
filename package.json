@@ -1,5 +1,5 @@
 {
-	"name": "sta",
+	"name": "Irpg",
 	"scripts": {
 		"package": "gulp package",
 		"transpile": "gulp build",
